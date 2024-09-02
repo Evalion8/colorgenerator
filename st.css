@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  border: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+
+body{
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.container{
+  background-color: pink;
+  max-width: 20%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 50%;
+  border-radius: 10px;
+}
+
+
+
+button{
+  background-color: pink;
+}
